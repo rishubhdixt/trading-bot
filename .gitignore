@@ -3,3 +3,4 @@ _pycache__/
 .env
 logs/
 venv/
+trading_bot.log
